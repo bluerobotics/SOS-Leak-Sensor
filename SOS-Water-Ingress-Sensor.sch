@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -8057,13 +8057,13 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="U$7" library="BR-Eagle-Library" deviceset="LOGO" device="BR-LOGO-S" value="LOGOBR-LOGO-S"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="resistor" deviceset="R-US_" device="R0603" value="12K"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="R0603" value="27K"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="R0603" value="10K"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="R0603" value="1K"/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="U$1" library="BlueRobotics-JST-GH" deviceset="JSH-GH-2" device="VERT"/>
 <part name="Q1" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_PNP" device="SMD"/>
-<part name="R3" library="resistor" deviceset="R-US_" device="R0603" value="2.2K"/>
+<part name="R3" library="resistor" deviceset="R-US_" device="R0603" value="1K"/>
 <part name="U$2" library="BlueRobotics-JST-GH" deviceset="JSH-GH-2" device="VERT"/>
 <part name="U$3" library="BlueRobotics-JST-GH" deviceset="JSH-GH-2" device="VERT"/>
 <part name="R4" library="resistor" deviceset="R-US_" device="R0603" value="240"/>
